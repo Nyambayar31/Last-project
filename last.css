@@ -1,5 +1,5 @@
 #Homepage{
-    background-image: url(img/ppppp.png);
+    background-image: url(ppppp.png);
     background-size:cover;
     height: 110vh;
     width: auto;
@@ -95,7 +95,7 @@ i{
     font-size: 20px;
 }
 #mainimage{
-    background-image: url(img/video-pic.png);
+    background-image: url(video-pic.png);
     background: cover;
     height: 120vh;
     background-position-x: center;
