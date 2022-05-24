@@ -1,0 +1,270 @@
+#Homepage{
+    background-image: url(img/ppppp.png);
+    background-size:cover;
+    height: 110vh;
+    width: auto;
+    background-position:center;
+    background-position-x:70%;
+    
+    
+    
+   
+    
+}
+.text{
+    padding-top: 9rem;
+    padding-left: 2.5rem;
+}
+.text h1{
+    font-family: 'Alfa Slab One', cursive;
+    color: #6a6964;
+    font-size: 55px;
+}
+.text p{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+#topimage{
+    height: 40px;
+    width: 40px;
+    margin-top: 3rem;
+    margin-left: 2.5rem;
+    position: absolute;
+    
+}
+.circle-text{
+    padding-left: 6.5rem;
+    font-size: 12px;
+    padding-top: 3rem;
+    
+}
+.circle-text h6{
+    position: absolute;  
+}
+.circle-text p{
+    padding-top: 1rem;
+}
+.text{
+    padding-top: -3rem;
+}
+#button1{
+    border-radius: 15px;
+    padding: 7px 70px;
+    box-shadow: 10px 10px 30px 10px grey;
+    
+}
+#button2{
+    border-radius: 15px;
+    padding: 7px 70px;
+    box-shadow: 10px 10px 30px 10px grey;
+    
+}
+.icons{
+    padding-top: 12rem;
+    display: inline-block;
+    position: static;
+}
+i{
+    font-size: 30px;
+    padding: 0px 10px;
+}
+#number{
+    font-size: 15px;
+    font-style: normal;
+    font-family: 'arial', sans-serif;    
+}
+.main-picture{
+    height: 380px;
+    width: 240px;
+    border-radius: 5px;
+    transition: all 0.3s ease; 
+    padding: 15px 0px;
+}
+.main-picture:hover{
+    transform: scale(1.2);
+}
+#Main-cont{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+#Main-cont h1{
+    font-weight: 800;
+}
+#Main-cont p{
+    font-size: 20px;
+}
+#mainimage{
+    background-image: url(img/video-pic.png);
+    background: cover;
+    height: 120vh;
+    background-position-x: center;
+}
+#main-text{
+    color: #fff;
+    padding-top: 20rem;
+}
+#main-text h1{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 700;
+}
+#main-text h2{
+    color: #fff;
+    font-size: 35px;
+}
+#order-button{
+    padding: 15px 60px;
+    margin-top: 2rem;
+    color: #fff;
+    font-size: large;
+}
+.card-title{
+    font-weight: 700;
+}
+.card-body p{
+    font-weight: 500;
+}
+.btn .btn-secondary{
+    font-weight: 500;
+}
+.fa-regular{
+    font-size: 15px;
+}
+#card-container h1{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;   
+    font-weight: 700;
+
+}
+.card{
+    margin-top: 1rem;
+}
+.footer {
+    color: #999999;
+}
+
+.footer .btn.btn-link {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    color: #999999;
+    font-weight: normal;
+    text-transform: capitalize;
+    transition: .3s;
+}
+
+.footer .btn.btn-link::before {
+    position: relative;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #999999;
+    margin-right: 10px;
+}
+
+.footer .btn.btn-link:hover {
+    color: var(--light);
+    letter-spacing: 1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+form .form-control{
+    position: relative;
+    border-bottom: 2px solid #adadad;
+    margin: 30px 0;
+}
+.form-control input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    background: none;
+    outline: none;
+}
+form .form-control{
+    padding: 25px 40px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+   
+}
+form{
+    padding: 23px 0px;
+}
+form ::placeholder{
+    font-size: 25px;
+}
+
+
+.last-icons i{
+    font-size: 35px;
+    padding-top: 7rem;
+   
+}
+#submit-button{
+    padding: 14px 80px;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 9rem;
+}
+form .form-control{
+    border-radius: 0;
+}
+.carousel-caption p{
+    font-size: 30px;
+}
+.carousel-caption h1{
+    font-size: 60px;
+}
+#form-image{
+    margin-left: 6rem;
+    padding-right: 3rem;
+}
+#contact-title{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;   
+    font-weight: 700;
+    font-size: 60px;
+}
+.contact-text{
+    display: inline;
+}
+.footer {
+    color: #999999;
+}
+
+.footer .btn.btn-link {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    color: #999999;
+    font-weight: normal;
+    text-transform: capitalize;
+    transition: .3s;
+}
+
+.footer .btn.btn-link::before {
+    position: relative;
+    content: "\f105";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    color: #999999;
+    margin-right: 10px;
+}
+
+.footer .btn.btn-link:hover {
+    color: var(--dark);
+    letter-spacing: 1px;
+    box-shadow: 0 4px 8px 0 rgba(25, 22, 22, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#icon-foot i{
+    color: rgb(255, 255, 255);
+
+}
