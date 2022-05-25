@@ -1,0 +1,20 @@
+[
+        {
+          
+          "title": "Olivia",
+          "text": "Earlier in this tutorial we made a web page with rows and columns, and it was responsive, but it did not look good on a small screen.",
+          "button-text": "Porfile"
+        },
+        {
+          
+          "title": "Steven",
+          "text": "Media queries can help with that. We can add a breakpoint where certain parts of the design will behave differently on each side of the breakpoint.",
+          "button-text": "Download"
+        },    
+        {
+          
+          "title": "Adam Hammel",
+          "text": "Mobile First means designing for mobile before designing for desktop or any other device (This will make the page display faster on smaller devices).",
+          "button-text": "Contact"
+        }
+    ]
